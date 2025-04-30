@@ -152,3 +152,4 @@ docker rm mininet-ubuntu # 删除容器，容器名称为mininet-ubuntu，也可
 ### 删除镜像（等你不再需要它）
 ```bash
 docker rmi mininet-ubuntu:22.04 # 删除镜像，镜像名称为mininet-ubuntu:22.04，也可以使用镜像ID
+```
