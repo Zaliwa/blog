@@ -3,6 +3,8 @@ title: "学习安装docker并制作mininet镜像"
 date: 2025-04-28
 ---
 
+***很遗憾，教程出现了问题，请等待后续更新***
+
 ## 1. 安装docker
 ```bash
 sudo apt-get update
